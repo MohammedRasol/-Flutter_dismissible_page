@@ -1,0 +1,20 @@
+name: dismissible_page
+description: Creates page that is dismissed by swipe gestures, with Hero style animations, Inspired by Facebook, Instagram stories.
+version: 0.7.2
+homepage: https://github.com/Tkko/Flutter_dismissible_page
+repository: https://github.com/Tkko/Flutter_dismissible_page
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lint: ^1.8.2
+
